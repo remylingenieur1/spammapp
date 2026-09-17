@@ -19,12 +19,10 @@ The website is made with plain HTML and CSS, so it does not require a build step
 
 Pages included:
 
-- [Home]
-- [About]
-- [Download]
-- [Contact]
-
-The website uses [main.css](main.css) for its styling and [oid.ico](oid.ico) as its favicon and navigation icon.
+- Home
+- About
+- Download
+- Contact
 
 ## Download
 
